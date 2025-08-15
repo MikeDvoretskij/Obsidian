@@ -11,10 +11,14 @@
             "id": "9ae4666930041b09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Hello worrld.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Hello worrld"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Математика/Hello worrld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Hello worrld"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Математика/Hello worrld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Hello worrld"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Математика/Hello worrld.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Hello worrld"
             }
           }
         ]
@@ -162,13 +168,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "164a4a1e653a2b40",
+  "active": "9ae4666930041b09",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Математика/Hello worrld.md",
     "Математика",
     "Прорамирование",
     "ПАХТ",
     "Оборудование",
-    "Без названия.md",
     "МЛФ",
     "Аналитика",
     "ЖЛФ",
